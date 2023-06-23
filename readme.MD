@@ -10,5 +10,5 @@ You can open/run this notebook via [Google Colab](https://colab.research.google.
 
 `whisper.ipynb`: transcribe audio and YouTube videos with Whisper.
 
-`word_embeddings`: 
+`ConferenceNotebook.ipynb`: explore BERT word embeddings.
 
