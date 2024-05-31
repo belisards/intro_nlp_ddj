@@ -6,7 +6,7 @@
 
 ## Noteboks
 
-You can open/run this notebook via [Google Colab](https://colab.research.google.com/github/belisards/intro_nlp_ddj).
+You can open/run this notebook via [Google Colab](https://colab.research.google.com/github/belisards/nlp_intro/blob/main/whisper.ipynb).
 
 `whisper.ipynb`: transcribe audio and YouTube videos with Whisper.
 
